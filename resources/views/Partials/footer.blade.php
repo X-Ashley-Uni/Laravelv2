@@ -1,5 +1,5 @@
 <footer>
-    Web Developmenttttt activity, add customer working, no working product yet
+    Web Developmenttttt activity :) 2023
 </footer>  
 </body>
 </html>
